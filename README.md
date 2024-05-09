@@ -4,9 +4,9 @@ Thanks a lot Mr. Kiril Zyapkov
 
 Environment
 
-macOS Monterey 12.7.4
-Python 3.9.13
-bleak
+1. macOS Monterey 12.7.4
+2. Python 3.9.13
+3. bleak
 
 How to use
 1. scan your device by bleScan.py
