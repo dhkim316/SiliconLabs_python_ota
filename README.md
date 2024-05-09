@@ -19,4 +19,5 @@ How to use
 5. select gbl
 6. start dfu
 
-
+Contacting
+ijelectron@gmail.com
