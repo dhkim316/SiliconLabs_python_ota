@@ -1,6 +1,6 @@
 # SiliconLabs_python_ota
 
-thanks a lot Mr. Kiril Zyapkov
+Thanks a lot Mr. Kiril Zyapkov
 
 Environment
 macOS Monterey 12.7.4
